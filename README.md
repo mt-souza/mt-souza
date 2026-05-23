@@ -9,27 +9,11 @@ Academic and practical experience with Python, SQL, Excel, and Power BI, develop
 Currently improving my analytical and visualization skills while expanding my studies in Data Science and Machine Learning.
 
 <p align="left">
-    <a href="">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-white?logo=mail&logoColor=white&labelColor=red&color=red&logoWidth=10&style=for-the-badge"
-        />
-    </a>
-    <a href="">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=10&style=for-the-badge"
-        />
-    </a> 
-    <a href="">
-        <img 
-            alt="Portfolio" 
-            title="Portfolio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfolio-7C3AED?logo=browser&logoColor=white&labelColor=7C3AED&color=7C3AED&logoWidth=15&style=for-the-badge"
-        />
-    </a>
+
+  <a href="" style="margin-right: 10px;"><img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/Email-FF3B30?logo=mail&logoColor=white&labelColor=CC1F1A&color=FF3B30&logoWidth=10&style=for-the-badge"/></a>
+  <a href="" style="margin-right: 10px;"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A84FF?logo=linkedin-white&logoColor=white&labelColor=0060DF&color=0A84FF&logoWidth=10&style=for-the-badge"/></a>
+  <a href=""><img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-8B5CF6?logo=browser&logoColor=white&labelColor=6D28D9&color=8B5CF6&logoWidth=15&style=for-the-badge"/></a>
+
 </p>
 
 ---
